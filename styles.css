@@ -1,0 +1,17 @@
+h1{
+    color:black;
+    font-style:oblique;
+    font: size 100px;
+}
+h2{
+    color:darkgreen
+}
+.border1{
+    border-style: solid;
+    border-color: firebrick;
+    border-width: 4px;
+    border: spacing 80px;
+}
+.bigbody{
+    background-color:khaki;
+}
